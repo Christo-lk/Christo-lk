@@ -35,6 +35,8 @@ Here you can find a few of the projects I've been working on:
       
 - Say Hello!
 
+    https://www.linkedin.com/in/christo-k-9b962087/     
+
   christo.karadjov@gmail.com
   
   instagram.com/itschristo_
