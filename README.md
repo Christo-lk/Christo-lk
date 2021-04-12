@@ -21,7 +21,7 @@ Here you can find a few of the projects I've been working on:
   https://github.com/Christo-lk/DbAudioPlayer
   
   This is a fun side Project where I am building an Audio Player using React and TailwindCss for the front end, Redux to manage application state, and Sqlite3 to store the songs   and metadata. 
-  I am using Webpack as a bundler and Express paired with superAgent to run my local server and make API calls. 
+  I am using Webpack as a bundler and Express paired with Superagent to run my local server and make API calls. 
   I am using this project as a workout to practise the tech that I know as well as pushing myself to implement more advanced functionality I have yet to learn.   
   
 - The Breakfast Club
