@@ -14,14 +14,14 @@ Here you can find a few of the projects I've been working on:
   This was my final project that I built with 3 of my classmates in the final week of Enspiral Dev Academy's software development bootcamp. 
   The goal of the website was to build a platform where developers could showcase their portfolios in a sleek and user friendly website, whist also aiding employers
   in finding the right developer for the job they need done. 
-  My role within this project was UI/UX lead. I designed the user interface and styling of the website to be sleek, and modern, with minimal colours using TailwindCss. 
+  My role within this project was UI/UX lead. I designed the user interface and styling of the website to be sleek and modern, with minimal colours using TailwindCss. 
     
 - Db Audio Player: 
 
   https://github.com/Christo-lk/DbAudioPlayer
   
-  This is a fun side Project where I am building an Audio Player using React and TailwindCss for the front end, Redux to manage application state, and Sqlite3 to store the songs   and metadata. 
-  I am using Webpack as a bundler and Express paired with Superagent to run my local server and make API calls. 
+  This is a fun side Project where I am building an Audio Player using React and TailwindCss for the front end, Redux to manage application state, and Sqlite3 to store the songs   and metadata. I am using Webpack as a bundler and Express paired with Superagent to run my local server and make API calls. 
+  I'm pushing myself into new design territory with this project and trying to design it with a brutalist influence and strong focus on typography.
   I am using this project as a workout to practise the tech that I know as well as pushing myself to implement more advanced functionality I have yet to learn.   
   
 - The Breakfast Club
@@ -35,7 +35,7 @@ Here you can find a few of the projects I've been working on:
       
 - Say Hello!
 
-    https://www.linkedin.com/in/christo-k-9b962087/     
+  https://www.linkedin.com/in/christo-k-9b962087/     
 
   christo.karadjov@gmail.com
   
